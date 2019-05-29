@@ -17,7 +17,10 @@ I'll update this whenever I make changes to the software
 Requried Parts list:
 
  -> Raspberry Pi b+/2/3/3b+
+ 
  -> 40 pin, GPIO breakout cable (Such as a Pi Cobler)
+ 
  -> Any color LED ( 30 mA, 3.2 V)
+ 
  -> Various wires/jumpers (Longer wires and smaller jumpers to bridge breadboard sides)
  
