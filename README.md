@@ -6,3 +6,5 @@ It only took me a few hours to wire the circuit and put together a somewhat bad 
 The matrix relies on the basic principles of the polarities of diodes.
 Since Diodes only let current flow in one direction, when the polarity is reversed it turns the specific pixel turned off.
 See the attached circuit diagram on how to wire it.
+Additional examples and documentation is in the matrix.py file itself.
+I'll update this whenever I make changes to the software
