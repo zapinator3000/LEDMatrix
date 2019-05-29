@@ -1,0 +1,6 @@
+Notes about LED choices:
+
+In my diagram, I assume you are using a 30mA 3.2 volt LED.
+Depending on your LED, it may be necessary to place a resistor between the anode of the LED and the Raspberry Pi.
+For example, for a 1.5 volt LED, I would recommend using a 60 to 100 ohm resistor in parallel with the LED. 
+Really, the bigger the better for the resistor (As long as it does not drop the voltage below the minimum voltage of the LED)
